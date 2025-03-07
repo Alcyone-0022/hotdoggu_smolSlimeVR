@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/espressif-kicad-libraries/symbols/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "hotdoggu_smolSlimeVR")(type "KiCad")(uri "${KIPRJMOD}/hotdoggu_smolSlimeVR.kicad_sym")(options "")(descr ""))
+)
