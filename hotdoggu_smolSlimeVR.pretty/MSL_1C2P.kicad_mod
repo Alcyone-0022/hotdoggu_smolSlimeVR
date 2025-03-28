@@ -102,15 +102,15 @@
 		(uuid "d3b0571a-b720-48ab-ba36-58833c909a0a")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/hotdoggu_slimeVR_PCB.pretty/MSL-1C2P SW.step"
+	(model "${KIPRJMOD}/hotdoggu_smolSlimeVR.pretty/MSL-1C2P SW.step"
 		(offset
-			(xyz -60.8 -10.5 0)
+			(xyz 5.7 -2.1 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -90)
 		)
 	)
 )

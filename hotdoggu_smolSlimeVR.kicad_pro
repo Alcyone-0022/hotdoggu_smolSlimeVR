@@ -222,10 +222,6 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.2,
-          "drill": 0.1
-        },
-        {
           "diameter": 0.4,
           "drill": 0.2
         },
@@ -515,7 +511,7 @@
       "plot": "hotdoggu_smolSlimeVR_Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "hotdoggu_smolSlimeVR_V2.step",
       "svg": "",
       "vrml": ""
     },

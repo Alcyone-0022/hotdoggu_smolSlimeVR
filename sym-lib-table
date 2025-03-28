@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/espressif-kicad-libraries/symbols/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "hotdoggu_smolSlimeVR")(type "KiCad")(uri "${KIPRJMOD}/hotdoggu_smolSlimeVR.kicad_sym")(options "")(descr ""))
+  (lib (name "Geekble Mini ESP32C3FH4")(type "KiCad")(uri "${KIPRJMOD}/Geekble Mini ESP32C3FH4.kicad_sym")(options "")(descr ""))
 )

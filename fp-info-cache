@@ -1,4 +1,4 @@
-24819181859459015
+24833114828809648
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58617,6 +58617,34 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+Geekble Mini ESP32C3FH4
+Geekble_Mini_ESP32C3FH4_SMD
+
+
+0
+20
+20
+Geekble Mini ESP32C3FH4
+Geekble_Mini_ESP32C3FH4_TH
+
+
+0
+20
+20
+Geekble Mini ESP32C3FH4
+Geekble_Mini_ESP32C3FH4_V2.0_SMD
+
+
+0
+22
+22
+Geekble Mini ESP32C3FH4
+Geekble_Mini_ESP32C3FH4_v2.0_TH
+
+
+0
+20
+20
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -99834,6 +99862,27 @@ Varistor VF
 2
 2
 hotdoggu_smolSlimeVR
+IMU_XYZ
+
+
+0
+0
+0
+hotdoggu_smolSlimeVR
+LGA-14_3x2.5mm_P0.5mm_Handsolder
+LGA, 14 Pin (https://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LGA NoLead
+0
+14
+14
+hotdoggu_smolSlimeVR
+L_Murata_DFE201610P
+Inductor, Murata, DFE201610P, 2.0x1.6x1.0mm, (https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundmetalalloychiptype/m_dfe201610p.ashx), generated with kicad-footprint-generator gen_inductor.py
+Inductor power chip flatwire
+0
+2
+2
+hotdoggu_smolSlimeVR
 MSL_1C2P
 
 
@@ -99847,3 +99896,10 @@ TS-1088-AR02016
 0
 2
 2
+hotdoggu_smolSlimeVR
+WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm
+WSON, 10 Pin (http://www.ti.com/lit/gpn/tps63030#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+15
+11

@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at -1.52 -2.81 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "d755ad7c-b500-4b90-b30f-7be66cff8235")
@@ -54,6 +54,17 @@
 		)
 	)
 	(attr through_hole)
+	(fp_rect
+		(start -2.09 -1.6)
+		(end 2.11 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "46f52a9d-8649-4ac6-b1d9-6902c061f5e5")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
@@ -83,4 +94,15 @@
 		(uuid "bc110e34-b00c-4b34-9059-4663f241cd65")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/hotdoggu_smolSlimeVR.pretty/TS-1088-AR020.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
