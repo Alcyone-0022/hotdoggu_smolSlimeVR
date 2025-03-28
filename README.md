@@ -1,5 +1,5 @@
 <img src = "./images/hotdoggu_smolSlimeVR_PCB.png" width ="420" /> <img src = "./images/hotdoggu_smolSlimeVR_realpic.jpg" width ="400" />
-# hotdoggu_slimeVR_PCB
+# hotdoggu_smolSlimeVR
 KiCad project - slimevr tracker using  ESP32-C3-MINI-1, LSM6DSV16X    
 Includes 3d-printable case **(for 34\*50\*10(H) Li-Polymer battery)**
 # Used Components
