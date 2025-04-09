@@ -1,4 +1,4 @@
-<img src = "./images/hotdoggu_smolSlimeVR_PCB.png" width ="420" /> <img src = "./images/hotdoggu_smolSlimeVR_realpic.jpg" width ="400" />
+<img src = "./images/hotdoggu_smolSlimeVR_PCB.png" width ="500" /> <img src = "./images/hotdoggu_smolSlimeVR_realpic.jpg" width ="320" />
 # hotdoggu_smolSlimeVR
 KiCad project - slimevr tracker using  ESP32-C3-MINI-1, LSM6DSV16X    
 Includes 3d-printable case **(for 34\*50\*10(H) Li-Polymer battery)**
@@ -54,7 +54,7 @@ board = lolin_c3_mini
 #define MAX_IMU_COUNT 1
 #ifndef IMU_DESC_LIST
 #define IMU_DESC_LIST \
-    IMU_DESC_ENTRY(IMU,        PRIMARY_IMU_ADDRESS_ONE,   IMU_ROTATION,        PIN_IMU_SCL, PIN_IMU_SDA, PRIMARY_IMU_OPTIONAL, PIN_IMU_INT)
+    IMU_DESC_ENTRY(IMU,        PRIMARY_IMU_ADDRESS_TWO,   IMU_ROTATION,        PIN_IMU_SCL, PIN_IMU_SDA, PRIMARY_IMU_OPTIONAL, PIN_IMU_INT)
 #endif
 #define BATTERY_MONITOR BAT_EXTERNAL
 #elif BOARD == BOARD_CUSTOM
